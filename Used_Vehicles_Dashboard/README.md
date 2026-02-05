@@ -1,17 +1,38 @@
-# 🚗 Used Vehicles Interactive Dashboard
+# 🚗 Used Vehicles Dashboard — USA
 
-This project moves beyond static analysis to web deployment. I built an interactive dashboard using **Streamlit** and **Plotly** to allow users to explore a dataset of 50,000+ used vehicle listings in the US.
+This project is an interactive web application built with **Streamlit**, designed to explore and analyze used vehicle listings in the United States.
 
-## 🛠️ Skills Demonstrated
-- **Web App Deployment:** Developed a functional web application using the Streamlit framework.
-- **Interactive Visualizations:** Implemented dynamic Plotly charts (Scatter plots, histograms, and treemaps) that respond to user filters.
-- **Software Engineering Best Practices:** Managed dependencies using `requirements.txt` and organized code for local/cloud execution.
-- **User Interface (UI) Design:** Built sidebar filters to allow non-technical users to query data by vehicle type, condition, and model year.
+## 📊 Features
 
-## 📊 Key Features
-- Dynamic price vs. mileage correlation analysis.
-- Real-time inventory metrics and data filtering.
-- Capability to download filtered datasets directly from the browser.
+- Filter vehicles by:
+  - Model year
+  - Condition
+  - Transmission type
+  - Fuel type
+  - Vehicle type
+  - Paint color
+- Key metrics:
+  - Average price
+  - Average odometer
+  - Number of vehicles found
+- Interactive visualizations:
+  - Scatter plot: Price vs Odometer
+  - Histogram: Odometer distribution
+  - Boxplot: Price by condition and vehicle type
+  - Treemap: Price distribution by type and model
+- Download filtered data as CSV
+- Responsive layout and sidebar filters
 
----
-**Core Files:** `app.py` (or your main script), `EDA.ipynb`, `requirements.txt`
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- Plotly Express
+- Streamlit
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/used-vehicles-dashboard.git
+   cd used-vehicles-dashboard
