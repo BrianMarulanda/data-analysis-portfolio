@@ -1,20 +1,23 @@
 # Data Analysis Portfolio 📊
 
-¡Bienvenido a mi portafolio! En este repositorio documento mis proyectos de análisis de datos, donde aplico técnicas de limpieza, exploración y modelado para resolver problemas de negocio y optimizar procesos.
+Welcome! This portfolio showcases my ability to transform raw data into insights, focusing on clean code, automated logic, and professional documentation.
 
-## 🚀 Proyectos Destacados
+## 🛠️ Technical Skills & Project Evidence
 
-### 1. [Limpieza y Normalización de Datos: Store 1](./Store1_Cleaning/)
-* **Descripción:** Preprocesamiento y normalización de un dataset de clientes inconsistente.
-* **Tecnologías:** Python (Strings, Error Handling, Data Structures).
-* **Resultado:** Un dataset 100% estandarizado y listo para análisis estadístico.
+### **1. Data Cleaning & Normalization**
+* **Skill:** Managing inconsistent string formats, correcting data types, and implementing error handling (`try-except`).
+* **Evidence:** [Customer Data Cleaning - Store 1](./Store1_Cleaning/)
+
+### **2. Automation & Functional Logic**
+* **Skill:** Building reusable Python functions, implementing iterative loops (`for`), and complex conditional logic (`if/else`) for data processing.
+* **Evidence:** [Logic & Automation - Store 2](./Store_Automation/)
 
 ---
 
-## 🛠️ Herramientas y Stack Técnico
-* **Lenguajes:** Python (Pandas, NumPy)
-* **Entornos:** Jupyter Notebooks, Google Colab
-* **Versionamiento:** Git & GitHub
+## 💻 Tech Stack
+* **Language:** Python (Focus on logic, functions, and data structures)
+* **Tools:** Jupyter Notebooks, Git, GitHub
+* **Methodology:** Agile Data Analysis (Sprint-based)
 
 ---
 © 2026 - Brian Marulanda
