@@ -1,31 +1,31 @@
 # Data Analysis Portfolio 📊
 
-Professional portfolio showcasing a complete data science journey: from automation logic and advanced wrangling to statistical validation and business intelligence.
+Welcome! This portfolio showcases my evolution from Python automation to complex business intelligence and statistical modeling.
 
 ## 🛠️ Core Technical Pillars
 
-### **1. Statistical Analysis & Hypothesis Testing**
-* **Strategic Skill:** Using probability and T-tests to validate business hypotheses and determine if data trends are statistically significant.
+### **1. Integrated Data Analysis (End-to-End)**
+* **Strategic Skill:** Executing full-cycle projects involving market trends, regional profiling, and predictive patterns for business planning.
+* **Project Evidence:** [Video Game Market Analysis](./Video_Game_Market_Analysis/)
+
+### **2. Statistical Analysis & Hypothesis Testing**
+* **Strategic Skill:** Using probability and T-tests to validate business assumptions and ensure data trends are statistically significant.
 * **Project Evidence:** [Telecom Revenue Analysis](./Telecom_Revenue_Analysis/)
 
-### **2. Business Intelligence & Advanced EDA**
-* **Strategic Skill:** Analyzing multi-relational datasets to uncover consumer patterns and calculating business KPIs like reorder rates.
+### **3. Business Intelligence & Advanced EDA**
+* **Strategic Skill:** Merging multi-relational datasets to uncover consumer patterns and calculating business KPIs.
 * **Project Evidence:** [Instacart Market Basket Analysis](./Instacart_Market_Analysis/)
 
-### **3. Data Wrangling & Library Mastery (Pandas)**
-* **Strategic Skill:** Mastery of the Pandas library to process CSV data, unify inconsistent categories, and handle missing values at scale.
-* **Project Evidence:** [Music Consumer Behavior Analysis](./Music_Consumer_Analysis/)
-
-### **4. Python Logic & Automation Foundations**
-* **Strategic Skill:** Developing reusable functions, iterative loops, and robust error handling for automated data processing.
-* **Project Evidence:** [Logic & Automation (Store 2)](./Store_Automation/) | [Data Cleaning (Store 1)](./Store1_Cleaning/)
+### **4. Data Foundations & Automation**
+* **Strategic Skill:** Mastery of Pandas for data wrangling, alongside building reusable Python logic and automated functions.
+* **Project Evidence:** [Music Consumer Analysis](./Music_Consumer_Analysis/) | [Logic & Automation (Store 2)](./Store_Automation/) | [Data Cleaning (Store 1)](./Store1_Cleaning/)
 
 ---
 
 ## 💻 Tech Stack
-* **Statistics:** SciPy, Statsmodels
-* **Analysis:** Pandas, NumPy, Matplotlib
-* **Environment:** Jupyter Notebooks, Git/GitHub
+* **Analysis:** Pandas, NumPy, SciPy
+* **Visualization:** Matplotlib, Seaborn
+* **Environment:** Jupyter Notebooks, VS Code, Git/GitHub
 
 ---
 © 2026 - Brian Marulanda
