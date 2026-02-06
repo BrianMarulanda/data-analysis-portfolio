@@ -1,40 +1,37 @@
-# Data Analysis Portfolio 📊
+# Brian Marulanda | Data Analyst Portfolio 📊
 
-Professional portfolio showcasing the full analytical spectrum: from core Python automation to high-level Business Economics and interactive deployment.
+Welcome! I am a Data Analyst focused on transforming complex datasets into strategic business insights. My expertise spans from **Unit Economics** and **SQL** to **Statistical Modeling** and **Interactive Dashboards**.
 
-## 🛠️ Core Technical Pillars
+---
 
-### **1. Business Analytics & Unit Economics**
-* **Strategic Skill:** Calculating **LTV, CAC, and ROMI** to optimize marketing budgets and analyzing user cohorts to determine long-term profitability.
-* **Project Evidence:** [Marketing Optimization - Showz](./Marketing_Optimization_Analysis/)
+## 🛠️ Technical Pillars & Projects
 
-### **2. SQL & Statistical Hypothesis Testing**
-* **Strategic Skill:** Querying relational databases and using probability tests to validate if external factors (like weather) significantly impact business metrics.
-* **Project Evidence:** [Zuber Ride-Sharing Analysis](./Zuber_Ride_Sharing_Analysis/)
+### 💰 Business Analytics & Unit Economics
+**Skill:** Calculating LTV, CAC, and ROMI to optimize marketing efficiency and cohort profitability.
+* **[Marketing Optimization: Showz](./Marketing_Optimization_Analysis/)** - A deep dive into ticket sales profitability and marketing channel ROI.
 
-### **3. Dashboarding & Web Deployment**
-* **Strategic Skill:** Building interactive web applications (Streamlit/Plotly) to make data insights accessible to non-technical stakeholders.
-* **Project Evidence:** [Used Vehicles Dashboard](./Used_Vehicles_Dashboard/)
+### 🚕 SQL & Statistical Validation
+**Skill:** Relational database querying combined with Hypothesis Testing (T-tests) to validate business assumptions.
+* **[Zuber Ride-Sharing Analysis](./Zuber_Ride_Sharing_Analysis/)** - Analyzing the impact of weather on Chicago taxi durations using SQL and Python.
 
-### **4. Integrated Data Analysis (End-to-End)**
-* **Strategic Skill:** Executing full-cycle projects involving market trends, regional profiling, and platform lifecycle analysis.
-* **Project Evidence:** [Video Game Market Analysis](./Video_Game_Market_Analysis/)
+### 🎮 Integrated Market Research
+**Skill:** End-to-end analysis of global market trends, regional segmentation, and product lifecycles.
+* **[Video Game Industry Analysis](./Video_Game_Market_Analysis/)** - Predicting success patterns across different global gaming regions.
 
-### **5. Advanced EDA (Consumer Behavior)**
-* **Strategic Skill:** Merging multi-relational datasets and calculating complex KPIs like reorder rates and shopping peak hours.
-* **Project Evidence:** [Instacart Market Basket Analysis](./Instacart_Market_Analysis/) | [Telecom Revenue Analysis](./Telecom_Revenue_Analysis/)
+### 🚗 Dashboarding & Deployment
+**Skill:** Building user-facing tools to democratize data access.
+* **[Used Vehicles Interactive Dashboard](./Used_Vehicles_Dashboard/)** - A live Streamlit application for real-time market exploration.
 
-### **6. Data Foundations & Automation**
-* **Strategic Skill:** Mastery of Pandas for wrangling and building reusable Python functions for automated processing.
-* **Project Evidence:** [Music Consumer Analysis](./Music_Consumer_Analysis/) | [Store Automation](./Store_Automation/)
+### 🛒 Advanced EDA & Consumer Behavior
+**Skill:** Multi-relational data merging and behavior pattern identification.
+* **[Instacart Market Analysis](./Instacart_Market_Analysis/)** | **[Telecom Revenue Analysis](./Telecom_Revenue_Analysis/)**
 
 ---
 
 ## 💻 Tech Stack
-* **Business Metrics:** LTV, CAC, ROMI, Cohort Analysis
-* **Libraries:** Pandas, NumPy, SciPy, Streamlit, Plotly
-* **Languages:** Python, SQL
-* **Tools:** Jupyter Notebooks, Git/GitHub
+* **Languages:** Python (Pandas, NumPy, SciPy), SQL
+* **Visualization:** Plotly, Seaborn, Matplotlib, Streamlit
+* **Tools:** Jupyter, Git, GitHub, VS Code
 
 ---
-© 2026 - Brian Marulanda
+[Contact me on LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
